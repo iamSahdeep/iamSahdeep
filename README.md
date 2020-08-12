@@ -21,10 +21,6 @@ Currently working as an Android Engineer🔭 at [Bobble AI](https://booble.ai). 
   <img align="left" alt="Sahdeep's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-<br/>
-
-![](https://visitor-badge.glitch.me/badge?page_id=iamSahdeep.iamSahdeep)
-
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little about me...  
 
 - 💻 I’m currently working on [Various Flutter Projects](https://github.com/iamSahdeep) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
