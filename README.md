@@ -2,7 +2,7 @@
 
 Currently working as an Android Engineer🔭 at [Bobble AI](https://booble.ai). I love to convert Art of Design into Art of Code, [Flutter](https://flutter.dev)⚡ is LOBE. Engineer by profession, Gamer by Hobby, usually love to Animate things in Free Time :)
 
-<a href="https://twitter.com/iamSahdeeo">
+<a href="https://twitter.com/iamSahdeep">
   <img align="left" alt="Sahdeep's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/iamSahdeep/">
