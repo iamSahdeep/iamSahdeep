@@ -54,7 +54,7 @@ Currently working as an Android Engineer🔭 at [Bobble AI](https://booble.ai). 
 
 <img src="https://i.imgur.com/MkA94wf.png" width="500">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamSahdeep&layout=compact&theme=darcula)](https://github.com/anuraghazra)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamSahdeep&layout=compact&theme=darcula)](https://github.com/iamSahdeep)
 
 <br/>
 
