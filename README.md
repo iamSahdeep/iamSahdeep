@@ -33,7 +33,7 @@ Currently working as an Android Engineer🔭 at [Bobble AI](https://bobble.ai). 
 - ⚡️ Fun-Fact: My first sh*t blog/website with wordpress 😭 xD : https://insanegeekblog.wordpress.com/. 
 - 📫 Reach me through: sahdeepsingh98@gmail.com;
 - 👋 You can find me with @iamSahdeep at almost every social platform.
-- 📝 [My Resume](https://docs.google.com/document/d/1hMZoT88v-6gTO4nyUEKwABmNF19AK1f5ZtOaDQHrVR0/edit#)
+- 📝 [My Resume](https://docs.google.com/document/d/1AukhsobWRKjO2fIp71LV0jT5BgOZhhW0b_x7K70EBUU/edit#)
 
 <br/>
 
@@ -58,6 +58,6 @@ Currently working as an Android Engineer🔭 at [Bobble AI](https://bobble.ai). 
 
 <br/>
 
-## <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+## <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to connect with you more!</b> :)</em>
 
 ---
