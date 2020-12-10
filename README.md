@@ -25,9 +25,9 @@ Currently working as an Android Engineer🔭 at [Bobble AI](https://bobble.ai). 
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little about me...  
 
-- 💻 I’m currently working on [Various Flutter Projects](https://github.com/iamSahdeep) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- 💻 I’m currently working on [my awesome portfolio](https://github.com/iamSahdeep/portefeuille) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - 🌱 I’m currently learning Flutter in depth :) 
-- ⚙️ I use daily: `.dart`, `.java`, `.xml`, `.kt`, `.psd`
+- ⚙️ I use daily: `.dart`, `.java`, `.kt`, `.psd`
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: My first sh*t blog/website with wordpress 😭 xD : https://insanegeekblog.wordpress.com/. 
@@ -50,11 +50,7 @@ Currently working as an Android Engineer🔭 at [Bobble AI](https://bobble.ai). 
 
 <br/>
 
-## <img src="https://media.giphy.com/media/7sRMjntXYEITu/giphy.gif" width="30"> A Bit More
-
-<img src="https://i.imgur.com/MkA94wf.png" width="500">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamSahdeep&layout=compact&theme=darcula)](https://github.com/iamSahdeep)
+## <img src="https://media.giphy.com/media/7sRMjntXYEITu/giphy.gif" width="30">
 
 <br/>
 
