@@ -1,24 +1,24 @@
 ## Hola Amigos👋, I'm [Sahdeep Singh!](https://sahdeepsingh.com) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-Currently working as an Android Engineer🔭 at [Bobble AI](https://bobble.ai). I love to convert Art of Design into Art of Code, [Flutter](https://flutter.dev)⚡ is LOBE. Engineer by profession, Gamer by Hobby, usually love to Animate things in Free Time :)
+Currently working as an Android Engineer🔭 at [Bobble AI](https://bobble.ai). I love to convert Art of Design into Art of Code, [Flutter](https://flutter.dev)⚡ is LOVE. Engineer by profession, Gamer by Hobby, usually love to Animate things in Free Time :)
 
 <a href="https://twitter.com/iamSahdeep">
-  <img align="left" alt="Sahdeep's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Sahdeep's Twitter" width="22px" src="https://img.icons8.com/dusk/64/000000/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/iamSahdeep/">
-  <img align="left" alt="Sahdeep's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Sahdeep's LinkdeIN" width="22px" src="https://img.icons8.com/dusk/64/000000/linkedin.png" />
 </a>
 <a href="https://t.me/iamSahdeep">
-  <img align="left" alt="Sahdeep's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Sahdeep's Telegram" width="22px" src="https://img.icons8.com/dusk/64/000000/telegram-app.png" />
 </a>
 <a href="https://www.instagram.com/iamSahdeep/">
-  <img align="left" alt="Sahdeep's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Sahdeep's Instagram" width="22px" src="https://img.icons8.com/dusk/64/000000/instagram-new.png" />
 </a>
 <a href="https://www.reddit.com/user/iamSahdeep/">
-  <img align="left" alt="Sahdeep's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+  <img align="left" alt="Sahdeep's Reddit" width="22px" src="https://img.icons8.com/dusk/64/000000/reddit.png" />
 </a>
 <a href="https://facebook.com/iamSahdeep/">
-  <img align="left" alt="Sahdeep's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Sahdeep's Leetcode" width="22px" src="https://img.icons8.com/dusk/64/000000/facebook-new--v2.png" />
 </a>
 
 <br/>
